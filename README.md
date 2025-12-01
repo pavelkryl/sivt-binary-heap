@@ -13,6 +13,6 @@ pytest .
 ```
 Výstupem bude informativní výsledek, zda testy prošly.
 
-Obecně je pytest hodně šikovný nástroj, který funguje tak, že najde všechny soubory
+Obecně je pytest hodně šikovný nástroj. Funguje tak, že najde všechny soubory
 začínající na `test_` a v těchto všechny metody začínající na `test_` a tyto
 spouští jednu po druhé.
